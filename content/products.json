@@ -23,6 +23,9 @@
     {
       "type": "product-specifications",
       "enabled": true
+    },
+    {
+      "type": "page-title"
     }
   ]
 }
