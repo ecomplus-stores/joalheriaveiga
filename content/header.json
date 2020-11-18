@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
     "text": "Seja Bem Vindo (a)",
-    "link": "/promotion"
+    "link": "/promotion",
+    "background": "#d1b177"
   },
   "contacts_stripe": {
     "pages": [],
