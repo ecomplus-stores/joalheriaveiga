@@ -10,8 +10,20 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
+    "featured": [
+      "/colecao-after?Coleção After",
+      "/aliancas?Alianças",
+      "/aneis-solitarios?Anéis Solitários",
+      "/aneis?Aneis",
+      "/brincos?Brincos",
+      "/colares?Colares",
+      "/correntes?Correntes",
+      "/pingentes?Pingentes",
+      "/pulseiras?Pulseiras",
+      "/aneis-de-terco?Anéis de Terço",
+      "/aneis-de-letra?Anéis de Letra"
+    ],
+    "random": 11,
     "full_width": true
   },
   "search_input": true
