@@ -39,6 +39,11 @@
       "limit": 12,
       "page": 1,
       "sort": "lowest_price"
+    },
+    {
+      "type": "page-title",
+      "title": "Joalheria Veiga - Joias em Prata e Ouro Legitimo",
+      "description": "A Joalheria Veiga é uma loja especialista em metais nobres, joias confeccionadas em prata e ouro maciço. Joias para estar junto com você uma  vida toda."
     }
   ]
 }
