@@ -7,9 +7,9 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/banner-colecao-personalizados.jpg",
-          "link": "/colecao-personalizados",
-          "alt": "Coleção Personalizados",
+          "img": "/img/uploads/banner-colecao-pipoca-1-1-.png",
+          "link": "https://www.joalheriaveiga.com.br/colecao-pipoca",
+          "alt": "Coleção Pipoca",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z"
         },
@@ -17,8 +17,8 @@
           "start": "2020-11-18T17:53:15.303Z",
           "end": "",
           "img": "/img/uploads/banner-colecao-pipoca.png",
-          "link": "https://www.joalheriaveiga.com.br/colecao-pipoca",
-          "alt": "Coleção Pipoca"
+          "link": "https://www.joalheriaveiga.com.br/colecao-personalizados",
+          "alt": "Coleção Personalizados"
         }
       ]
     },
