@@ -7,18 +7,14 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/off-1-.png",
+          "img": "/img/uploads/off-5-1-.jpg",
           "link": "",
           "alt": "",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/natal-friday-1-1-.png"
+          "mobile_img": "/img/uploads/natal-friday-1-.jpg"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     },
     {
       "type": "collection-shelf",
@@ -32,7 +28,7 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "sort": "lowest_price"
+      "sort": "offers"
     },
     {
       "type": "page-title",
@@ -40,12 +36,14 @@
       "description": "A Joalheria Veiga é uma loja especialista em metais nobres, joias confeccionadas em prata e ouro maciço. Joias para estar junto com você uma  vida toda."
     },
     {
-      "type": "info-bar",
+      "type": "blog",
       "enabled": true
     },
     {
-      "type": "blog",
-      "enabled": true
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     }
   ]
 }
