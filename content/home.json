@@ -7,18 +7,16 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/banner-colecao-pipoca-1-1-.png",
-          "link": "https://www.joalheriaveiga.com.br/correntes",
-          "alt": "",
-          "start": "2021-01-18T05:54:00.000Z",
-          "end": "2022-12-01T03:00:00.000Z",
-          "mobile_img": ""
+          "start": "2021-01-22T17:43:49.886Z",
+          "end": "2021-01-22T17:43:49.931Z",
+          "img": "/img/uploads/joias-para-voce-brilhar.png",
+          "mobile_img": "/img/uploads/banner-joias-para-voce-brilhar.png"
         },
         {
-          "start": "2021-01-18T05:54:00.000Z",
-          "end": "2022-12-01T03:00:00.000Z",
-          "img": "/img/uploads/banner-colecao-personalizados-1-.jpg",
-          "link": "https://www.joalheriaveiga.com.br/colecao-personalizados"
+          "start": "2021-01-22T18:11:14.328Z",
+          "end": "2021-01-22T18:11:14.358Z",
+          "img": "/img/uploads/design-sem-nome-27-.png",
+          "mobile_img": "/img/uploads/banner-o-anel-de-noivado-e-o-brilho-de-um-grande-amor-2-.png"
         }
       ]
     },
