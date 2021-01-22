@@ -40,10 +40,6 @@
       "description": "A Joalheria Veiga é uma loja especialista em metais nobres, joias confeccionadas em prata e ouro maciço. Joias para estar junto com você uma  vida toda."
     },
     {
-      "type": "blog",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
