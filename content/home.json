@@ -33,6 +33,27 @@
       "limit": 12,
       "page": 1,
       "collection_id": "5f1907a414ff772fde819c96:categories:Coleção Love:/colecao-love"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5f1907a614ff772fde819c9a:categories:Anéis Solitários:/aneis-solitarios"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5f1907ae14ff772fde819ca9:categories:Coleção After:/colecao-after"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5f1907b014ff772fde819cad:categories:Coleção Personalizados:/colecao-personalizados"
     }
   ]
 }
