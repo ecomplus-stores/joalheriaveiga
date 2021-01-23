@@ -18,23 +18,31 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5f1907ae14ff772fde819ca9:categories:Coleção After:/colecao-after",
-      "sort": null,
-      "headless": false
+      "sort": "views",
+      "headless": false,
+      "limit": 13,
+      "title": "Coleção After",
+      "link": "https://www.joalheriaveiga.com.br/colecao-after"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
-      "page": 1,
-      "sort": null,
-      "collection_id": "5f1907b014ff772fde819cad:categories:Coleção Personalizados:/colecao-personalizados"
+      "page": "",
+      "sort": "views",
+      "collection_id": "5f1907b014ff772fde819cad:categories:Coleção Personalizados:/colecao-personalizados",
+      "title": "Coleção Personalizados",
+      "link": "https://www.joalheriaveiga.com.br/colecao-personalizados"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "5f1907b314ff772fde819cb3:categories:Anéis de Terço:/aneis-de-terco"
+      "collection_id": "5f1907b314ff772fde819cb3:categories:Anéis de Terço:/aneis-de-terco",
+      "sort": "views",
+      "title": "Anéis de Terço",
+      "link": "https://www.joalheriaveiga.com.br/aneis-de-terco"
     },
     {
       "type": "page-title",
