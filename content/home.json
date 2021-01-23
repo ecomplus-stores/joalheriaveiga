@@ -12,6 +12,13 @@
       "img": "/img/uploads/design-sem-nome-27-.png",
       "mobile_img": "/img/uploads/banner-o-anel-de-noivado-e-o-brilho-de-um-grande-amor-2-.png",
       "link": "https://www.joalheriaveiga.com.br/anel-solitario-prata-legitima-pedra-debutante-feminino"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 10,
+      "sort": "sales"
     }
   ]
 }
