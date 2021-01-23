@@ -26,6 +26,13 @@
       "limit": 12,
       "page": 1,
       "sort": "lowest_price"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5f1907a414ff772fde819c96:categories:Coleção Love:/colecao-love"
     }
   ]
 }
