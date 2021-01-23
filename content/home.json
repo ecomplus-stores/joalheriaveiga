@@ -17,8 +17,8 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "5f1907b014ff772fde819cad:categories:Coleção Personalizados:/colecao-personalizados",
-      "sort": "sales",
+      "collection_id": "5f1907ae14ff772fde819ca9:categories:Coleção After:/colecao-after",
+      "sort": null,
       "headless": false
     },
     {
@@ -26,7 +26,15 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "sort": "offers"
+      "sort": null,
+      "collection_id": "5f1907b014ff772fde819cad:categories:Coleção Personalizados:/colecao-personalizados"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5f1907b314ff772fde819cb3:categories:Anéis de Terço:/aneis-de-terco"
     },
     {
       "type": "page-title",
