@@ -1,19 +1,19 @@
 {
   "marketing_stripe": {
     "text": "",
-    "link": "/promotion",
+    "link": "",
     "background": "#ffffff",
     "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [],
-    "phone_wpp": false,
-    "socials": false
+    "phone_wpp": true,
+    "socials": true
   },
   "categories_list": {
     "featured": [],
     "random": 0,
-    "full_width": true
+    "full_width": false
   },
   "search_input": true
 }
