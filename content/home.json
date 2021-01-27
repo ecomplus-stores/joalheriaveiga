@@ -16,6 +16,26 @@
       "sort": "sales"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/berloques-1-.png",
+          "link": "https://www.joalheriaveiga.com.br/pingentes",
+          "alt": "berloques-e-pingentes-prata"
+        },
+        {
+          "img": "/img/uploads/aneis-solitarios-1-.png",
+          "link": "https://www.joalheriaveiga.com.br/aneis-solitarios",
+          "alt": "aneis-solitario-prata"
+        },
+        {
+          "img": "/img/uploads/brincos-1-.png",
+          "link": "https://www.joalheriaveiga.com.br/brinco-de-laco-prata",
+          "alt": "brincos-de-laco-prata"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
