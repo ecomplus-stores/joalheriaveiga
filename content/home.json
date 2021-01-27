@@ -3,10 +3,17 @@
   "meta_description": "Com mais de 11 anos de experiência a Joalheria Veiga se destaca em anéis, brincos, colares, pulseiras e pingentes, joias personalizadas em Prata Legítim com excelente qualidade, confeccionadas exatamente para você!",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/design-sem-nome-27-.png",
-      "mobile_img": "/img/uploads/banner-o-anel-de-noivado-e-o-brilho-de-um-grande-amor-2-.png",
-      "link": "https://www.joalheriaveiga.com.br/anel-solitario-prata-legitima-pedra-debutante-feminino"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2021-01-27T15:46:36.902Z",
+          "end": "2022-01-27T15:46:00.000Z",
+          "img": "/img/uploads/design-sem-nome-27-.png",
+          "link": "https://www.joalheriaveiga.com.br/anel-solitario-prata-legitima-pedra-debutante-feminino",
+          "alt": "aneis-solitarios-prata"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -14,26 +21,6 @@
       "limit": 24,
       "page": 10,
       "sort": "sales"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/berloques-1-.png",
-          "link": "https://www.joalheriaveiga.com.br/pingentes",
-          "alt": "berloques-e-pingentes-prata"
-        },
-        {
-          "img": "/img/uploads/aneis-solitarios-1-.png",
-          "link": "https://www.joalheriaveiga.com.br/aneis-solitarios",
-          "alt": "aneis-solitario-prata"
-        },
-        {
-          "img": "/img/uploads/brincos-1-.png",
-          "link": "https://www.joalheriaveiga.com.br/brinco-de-laco-prata",
-          "alt": "brincos-de-laco-prata"
-        }
-      ]
     },
     {
       "type": "collection-shelf",
