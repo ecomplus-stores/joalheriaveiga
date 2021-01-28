@@ -11,9 +11,15 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/colecao-after?Coleção After",
+      "/colecao-personalizados?Coleção Personalizados",
+      "/colecao-pipoca?Coleção Pipoca",
+      "/aneis-solitarios?Anéis Solitários",
+      "/aneis-de-terco?Anéis de Terço"
+    ],
     "random": 0,
-    "full_width": false
+    "full_width": true
   },
   "search_input": true
 }
