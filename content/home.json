@@ -18,37 +18,8 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 24,
-      "page": 10,
-      "sort": "slug",
-      "collection_id": null,
-      "title": "Joias Personalizadas",
-      "link": "https://www.joalheriaveiga.com.br/colecao-personalizados"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
       "limit": 12,
-      "page": 1,
-      "sort": "slug",
-      "collection_id": "5f1907ae14ff772fde819ca9:categories:Coleção After:/colecao-after",
-      "title": "Coleção After",
-      "link": "https://www.joalheriaveiga.com.br/colecao-after"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "5f1907ae14ff772fde819ca9:categories:Coleção After:/colecao-after",
-      "sort": "highest_price"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "5f1907b014ff772fde819cad:categories:Coleção Personalizados:/colecao-personalizados"
+      "page": 1
     },
     {
       "type": "page-title",
