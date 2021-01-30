@@ -20,30 +20,20 @@
       "shuffle": false,
       "limit": 24,
       "page": 10,
-      "sort": "sales"
+      "sort": "slug",
+      "collection_id": "5f1907b014ff772fde819cad:categories:Coleção Personalizados:/colecao-personalizados",
+      "title": "Joias Personalizadas",
+      "link": "https://www.joalheriaveiga.com.br/colecao-personalizados"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "lowest_price"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "5f1907a414ff772fde819c96:categories:Coleção Love:/colecao-love",
-      "sort": "news"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "5f1907a614ff772fde819c9a:categories:Anéis Solitários:/aneis-solitarios",
-      "sort": "lowest_price"
+      "sort": "slug",
+      "collection_id": "5f1907ae14ff772fde819ca9:categories:Coleção After:/colecao-after",
+      "title": "Coleção After",
+      "link": "https://www.joalheriaveiga.com.br/colecao-after"
     },
     {
       "type": "collection-shelf",
