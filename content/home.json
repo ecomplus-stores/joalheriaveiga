@@ -20,10 +20,10 @@
       "shuffle": false,
       "limit": "",
       "page": 1,
-      "collection_id": "5f1907b014ff772fde819cad:categories:Coleção Personalizados:/colecao-personalizados",
-      "sort": "lowest_price",
-      "title": "Joias Personalizadas",
-      "link": "/colecao-personalizados"
+      "collection_id": null,
+      "sort": null,
+      "title": "",
+      "link": ""
     },
     {
       "type": "collection-shelf",
