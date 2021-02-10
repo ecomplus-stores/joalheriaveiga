@@ -26,26 +26,6 @@
       "link": ""
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/aneis-3-1-.png",
-          "link": "https://www.joalheriaveiga.com.br/aneis",
-          "alt": "aneis"
-        },
-        {
-          "img": "/img/uploads/colares-banner-1-.png",
-          "link": "https://www.joalheriaveiga.com.br/colares",
-          "alt": "colares"
-        },
-        {
-          "img": "/img/uploads/aneis-de-tercp-1-.png",
-          "link": "https://www.joalheriaveiga.com.br/aneis-de-terco",
-          "alt": "aneis-de-terco"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
