@@ -1,5 +1,5 @@
 {
-  "css": ".product__buy button {\ncolor: #ffffff;\nbackground-color: #32CD32;\nborder-color: #32CD32;\nwidth: 100%;\n}\n.product__buy button:hover {\nbackground: #32CD32;\nborder-color: #32CD32;\n}\n#product-actions .prices__value {\n  font-weight: bold !important;\n  color:#000000!important;\n}\n.product-card__buy button {\nbackground: #32CD32\n}\n.products-carousel__title {\n    color: var(--secondary)\n} ",
+  "css": ".product__buy button {\ncolor: #ffffff;\nbackground-color: #32CD32;\nborder-color: #32CD32;\nwidth: 100%;\n}\n.product__buy button:hover {\nbackground: #32CD32;\nborder-color: #32CD32;\n}\n#product-actions .prices__value {\n  font-weight: bold !important;\n  color:#000000!important;\n}\n.product-card__buy button {\nbackground: #32CD32\n}\n.products-carousel__title {\n    color: var(--secundary)\n} ",
   "html_head": "<script src=\"//code.jivosite.com/widget/6nZLL4OpDr\" async></script>\n",
   "html_body": ""
 }
