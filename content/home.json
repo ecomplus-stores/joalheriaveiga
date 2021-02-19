@@ -31,7 +31,8 @@
       "limit": 3,
       "page": 1,
       "sort": "slug",
-      "title": "After"
+      "title": "Coleção After",
+      "collection_id": "5f1907ae14ff772fde819ca9:categories:Coleção After:/colecao-after"
     },
     {
       "type": "page-title",
