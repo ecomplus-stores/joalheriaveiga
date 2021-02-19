@@ -30,7 +30,8 @@
       "shuffle": false,
       "limit": 3,
       "page": 1,
-      "sort": "slug"
+      "sort": "slug",
+      "title": "After"
     },
     {
       "type": "page-title",
