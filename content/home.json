@@ -21,9 +21,17 @@
       "limit": 4,
       "page": 1,
       "collection_id": null,
-      "sort": "slug",
+      "sort": "sales",
       "title": "Aneis",
       "link": "https://www.joalheriaveiga.com.br/aneis"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 4,
+      "page": 1,
+      "title": "Colares",
+      "link": "https://www.joalheriaveiga.com.br/colares"
     },
     {
       "type": "collection-shelf",
