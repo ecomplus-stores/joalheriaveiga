@@ -40,10 +40,10 @@
       "shuffle": false,
       "limit": 10,
       "page": 1,
-      "sort": null,
-      "title": "Coleção After",
+      "sort": "offers",
+      "title": "",
       "collection_id": null,
-      "link": "https://www.joalheriaveiga.com.br/colecao-after"
+      "link": ""
     },
     {
       "type": "page-title",
