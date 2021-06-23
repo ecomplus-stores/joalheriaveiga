@@ -21,7 +21,7 @@
       "limit": 4,
       "page": 1,
       "collection_id": null,
-      "sort": "slug",
+      "sort": null,
       "title": "Anel de Prata",
       "link": "https://www.joalheriaveiga.com.br/aneis"
     },
@@ -32,14 +32,14 @@
       "page": 1,
       "title": "Colar de Prata",
       "link": "https://www.joalheriaveiga.com.br/colares",
-      "sort": "slug"
+      "sort": null
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 10,
       "page": 1,
-      "sort": "slug",
+      "sort": null,
       "title": "Coleção After",
       "collection_id": "601561d8d6981740b49df70e",
       "link": "https://www.joalheriaveiga.com.br/colecao-after"
