@@ -1,6 +1,6 @@
 {
   "description": {
-    "title": "Joias em Prata 925/950 e Ouro 18k 750",
+    "title": "Joias em Prata 925/950 ",
     "text": ""
   },
   "links_1": {
@@ -28,19 +28,22 @@
   ],
   "payment_methods": {
     "bb": false,
-    "visa": false,
+    "visa": true,
     "boleto": true,
     "aura": false,
     "banrisul": false,
-    "elo": false,
-    "hipercard": false,
+    "elo": true,
+    "hipercard": true,
     "hsbc": false,
     "bradesco": false,
     "santander": false,
-    "mastercard": false,
+    "mastercard": true,
     "paypal": true,
-    "citibank": false,
-    "mais": false,
+    "citibank": true,
+    "hiper": false,
+    "diners": false,
+    "mais": true,
+    "amex": false,
     "itau": false
   },
   "credits": ""
