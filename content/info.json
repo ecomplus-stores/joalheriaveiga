@@ -5,14 +5,14 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 6x Sem Juros "
+    "text": "Parcele em até 12x Sem Juros "
   },
   "exchange": {
     "show": false,
     "text": ""
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "Diferentes promoções ao longo do ano!"
   }
 }
