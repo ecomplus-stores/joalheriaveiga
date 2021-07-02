@@ -4,17 +4,17 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 2000,
       "slides": [
         {
           "start": "2021-07-02T16:43:19.944Z",
           "end": "",
-          "img": "/img/uploads/brinco-gratis.png"
+          "img": "/img/uploads/gratis.png"
         },
         {
           "start": "2021-07-02T16:45:25.620Z",
           "end": "",
-          "img": "/img/uploads/frete-gratis.png"
+          "img": "/img/uploads/frete-gratis-parana.png"
         }
       ]
     },
