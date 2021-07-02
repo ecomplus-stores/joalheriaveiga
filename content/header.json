@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "",
-    "link": "",
-    "background": "#fffafa",
-    "color": "#84a4d4"
+    "text": "Nas compras acima de R$159,90 ganhe um Brinco de Coração em Prata 925",
+    "link": "https://www.joalheriaveiga.com.br/ver-todas-joias-joalheria-veiga",
+    "background": "#92c1e9",
+    "color": "#000000"
   },
   "contacts_stripe": {
     "pages": [],
