@@ -52,6 +52,10 @@
       "type": "responsive-banner",
       "img": "/img/uploads/veja-todos-os-nossos-produtos.png",
       "link": "https://www.joalheriaveiga.com.br/ver-todas-joias-joalheria-veiga"
+    },
+    {
+      "type": "custom-html",
+      "html": "<!-- Global site tag (gtag.js) - Google Ads: 811977483 -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-811977483\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-811977483');\n</script>\n"
     }
   ]
 }
