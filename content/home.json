@@ -3,10 +3,6 @@
   "meta_description": "Com mais de 11 anos de experiência a Joalheria Veiga em confecção de joias se destaca em anéis, brincos, colares, pulseiras e pingentes, joias personalizadas em Prata Legítim com excelente qualidade, confeccionadas exatamente para você!",
   "sections": [
     {
-      "type": "blog",
-      "enabled": false
-    },
-    {
       "type": "banner-slider",
       "autoplay": 5000,
       "slides": [
@@ -36,6 +32,10 @@
       "link": "",
       "sort": "news",
       "collection_id": null
+    },
+    {
+      "type": "blog",
+      "enabled": false
     },
     {
       "type": "collection-shelf",
