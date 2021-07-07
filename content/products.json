@@ -25,6 +25,10 @@
       "enabled": true
     },
     {
+      "type": "blog",
+      "enabled": true
+    },
+    {
       "type": "page-title"
     }
   ]
