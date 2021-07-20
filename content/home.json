@@ -26,6 +26,21 @@
       "link": ""
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/colecao-personalizados.jpg",
+          "link": "https://www.joalheriaveiga.com.br/colecao-personalizados",
+          "alt": "colecao personalizados"
+        },
+        {
+          "img": "/img/uploads/colecao-love.jpg",
+          "link": "https://www.joalheriaveiga.com.br/colecao-love?",
+          "alt": "colecao love"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 4,
