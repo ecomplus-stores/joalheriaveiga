@@ -73,6 +73,19 @@
       "type": "responsive-banner",
       "img": "/img/uploads/veja-todos-os-nossos-produtos.png",
       "link": "https://www.joalheriaveiga.com.br/ver-todas-joias-joalheria-veiga"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/o-que-nossos-clientes-dizem-sobre-nos.jpg",
+          "link": "https://www.joalheriaveiga.com.br/posts/depoimentos"
+        },
+        {
+          "img": "/img/uploads/veja-todos-os-nossos-produtos.png",
+          "link": "https://www.joalheriaveiga.com.br/ver-todas-joias-joalheria-veiga"
+        }
+      ]
     }
   ]
 }
