@@ -17,8 +17,12 @@
       "enabled": true
     },
     {
-      "type": "blog",
-      "enabled": true
+      "type": "responsive-banner",
+      "img": "/img/uploads/o-que-nossos-clientes-dizem-sobre-nos.jpg",
+      "link": "https://www.joalheriaveiga.com.br/posts/depoimentos"
+    },
+    {
+      "type": "page-title"
     },
     {
       "type": "recommended-products",
@@ -27,9 +31,6 @@
     {
       "type": "related-products",
       "title": "Produtos relacionados"
-    },
-    {
-      "type": "page-title"
     }
   ]
 }
