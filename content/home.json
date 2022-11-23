@@ -30,14 +30,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/pingente-lobo.png",
-          "link": "https://www.joalheriaveiga.com.br/pingente-de-lobo-prata-950",
-          "alt": "Pingente Lobo"
+          "img": "/img/uploads/colar-lua.png",
+          "link": "https://www.joalheriaveiga.com.br/colar-lua-crescente-prata-950",
+          "alt": "COLAR LUA"
         },
         {
-          "img": "/img/uploads/conjunto-ponto-de-luz.png",
-          "link": "https://www.joalheriaveiga.com.br/ver-todas-joias-joalheria-veiga",
-          "alt": "Conjunto Ponto de Luz"
+          "img": "/img/uploads/piingente-lobo.png",
+          "link": "https://www.joalheriaveiga.com.br/pingente-de-lobo-prata-950",
+          "alt": "COLAR LOBO"
         }
       ]
     },
