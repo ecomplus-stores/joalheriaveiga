@@ -1,5 +1,5 @@
 {
-  "css": ".product__sticky-buy .btn-primary{\nbackground-color: #00FA9A;\nborder-color: #00FA9A;\n}\n\n.product__sticky-buy .btn-primary:hover{\nbackground-color: #00FA9A;\nborder-color: #00FA9A;\n}",
+  "css": "",
   "html_head": "<script src=\"//code.jivosite.com/widget/6nZLL4OpDr\" async></script>\n",
   "html_body": ""
 }
