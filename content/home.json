@@ -62,19 +62,6 @@
       "link": ""
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/o-que-nossos-clientes-dizem-sobre-nos.jpg",
-          "link": "https://www.joalheriaveiga.com.br/posts/depoimentos"
-        },
-        {
-          "img": "/img/uploads/veja-todos-os-nossos-produtos.png",
-          "link": "https://www.joalheriaveiga.com.br/ver-todas-joias-joalheria-veiga"
-        }
-      ]
-    },
-    {
       "type": "page-title",
       "title": "Joalheria Veiga - Joias em Prata Maciça",
       "description": "Com mais de 11 anos de experiência em confecção de joias, a Joalheria Veiga se destaca em anéis, brincos, colares, pulseiras, joias personalizadas, confeccionadas exatamente para você!"
