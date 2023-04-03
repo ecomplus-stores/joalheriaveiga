@@ -1,5 +1,5 @@
 {
   "css": "",
-  "html_head": "\n<a href=\"https://wa.me/5543996244538?text=Ola%20estou%20na%20sua%20loja\" style=\"position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;\nz-index:1000;\" target=\"_blank\">\n<i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i>\n</a>\n<meta name=\"facebook-domain-verification\" content=\"4laix0x9tgv80hngug99ppjza302fa\" />",
+  "html_head": "\n<a href=\"https://wa.me/5543996244538?text=Ola%20estou%20na%20sua%20loja\" style=\"position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;\nz-index:1000;\" target=\"_blank\">\n<i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i>\n</a>\n<meta name=\"facebook-domain-verification\" content=\"4laix0x9tgv80hngug99ppjza302fa\" />\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-FLSNY7QXE6\">\n</script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-FLSNY7QXE6');\n</script>",
   "html_body": ""
 }
