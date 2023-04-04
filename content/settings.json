@@ -1,7 +1,7 @@
 {
   "domain": "www.joalheriaveiga.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#545454",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/logo-2-.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#0dce61",
+  "secondary_color": "#a07231",
   "icon": "/img/uploads/logo-joalheria-veiga-joias-de-prata.png",
   "store_id": 1122,
   "description": "Bem-vindo à Joalheria Veiga! Somos uma empresa familiar com mais de 6 anos de história no mercado online de joias de alta qualidade.\nFundada em 2017 pelo ourives Clayton Veiga, que possui mais de 15 anos de experiencia e produção de joias.\nNosso objetivo é oferecer aos nossos clientes uma experiência de compra única, que valorize a beleza, a qualidade e a durabilidade das joias. \nPara isso, trabalhamos apenas com materias de altissima qualidade, como o ouro e prata legitimos.\nEm nossa loja, você encontrará uma grande variedade de joias em ouro 18k e prata.\nAlém disso, oferecemos serviços de conserto, ajuste e limpeza de joias, realizados por ourives altamente capacitados. \nNa Joalheria Veiga, temos um atendimento personalizado e especializado, com profissionais altamente capacitado e que estão sempre prontos para ajudá-lo a encontrar o produto perfeito para você ou para presentear alguém especial.",
