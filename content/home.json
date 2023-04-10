@@ -56,7 +56,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 4,
       "page": 1,
       "title": "",
@@ -66,12 +66,12 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 10,
       "page": 1,
-      "sort": "offers",
+      "sort": "sales",
       "title": "",
-      "collection_id": null,
+      "collection_id": "5f1907b014ff772fde819cad:categories:Coleção Personalizados:/colecao-personalizados",
       "link": ""
     },
     {
