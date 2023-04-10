@@ -12,14 +12,15 @@
           "img": "/img/uploads/3.png",
           "link": "https://www.joalheriaveiga.com.br/colar-lua-crescente-prata-950",
           "alt": "COLAR LUA CRESCENTE",
-          "mobile_img": "/img/uploads/colar-lua-prata.png"
+          "mobile_img": ""
         },
         {
           "start": "2023-04-10T13:05:52.618Z",
           "end": "",
           "img": "/img/uploads/2.png",
           "alt": "COLAR LETRA ",
-          "mobile_img": "/img/uploads/colar-letra-prata.png"
+          "mobile_img": "",
+          "link": "https://www.joalheriaveiga.com.br/colar-letra-inicial-personalizada-prata-925-joia-unica"
         },
         {
           "start": "2023-04-10T13:07:55.602Z",
@@ -27,7 +28,7 @@
           "img": "/img/uploads/1-1-.png",
           "link": "https://www.joalheriaveiga.com.br/anel-de-formatura-psicologia-safira-azul-em-ouro-18k-750",
           "alt": "ANEL SAFIRA AZUL OURO 18K 750",
-          "mobile_img": "/img/uploads/anel-safira-azul-ouro-18k.png"
+          "mobile_img": ""
         }
       ],
       "full_width": true
@@ -74,7 +75,7 @@
       "page": 1,
       "sort": "sales",
       "title": "",
-      "collection_id": "5f1907b014ff772fde819cad:categories:Coleção Personalizados:/colecao-personalizados",
+      "collection_id": null,
       "link": ""
     },
     {
