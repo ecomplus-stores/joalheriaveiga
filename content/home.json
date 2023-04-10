@@ -4,14 +4,27 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 5000,
+      "autoplay": 9000,
       "slides": [
         {
-          "start": "2022-11-23T16:59:42.572Z",
-          "end": "2023-09-15T02:59:42.608Z",
-          "img": "/img/uploads/anel-solitario-banner.jpg",
-          "link": "https://www.joalheriaveiga.com.br/aneis-solitarios",
-          "alt": "ANEIS SOLITARIOS"
+          "start": "2023-04-10T13:05:13.522Z",
+          "end": "2024-09-15T02:59:00.000Z",
+          "img": "/img/uploads/colar-lua-prata.png",
+          "link": "https://www.joalheriaveiga.com.br/colar-lua-crescente-prata-950",
+          "alt": "COLAR LUA CRESCENTE"
+        },
+        {
+          "start": "2023-04-10T13:05:52.618Z",
+          "end": "",
+          "img": "/img/uploads/colar-letra-prata.png",
+          "alt": "COLAR LETRA "
+        },
+        {
+          "start": "2023-04-10T13:07:55.602Z",
+          "end": "",
+          "img": "/img/uploads/anel-safira-azul-ouro-18k.png",
+          "link": "https://www.joalheriaveiga.com.br/anel-de-formatura-psicologia-safira-azul-em-ouro-18k-750",
+          "alt": "ANEL SAFIRA AZUL OURO 18K 750"
         }
       ],
       "full_width": true
