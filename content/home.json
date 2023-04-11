@@ -47,14 +47,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/colecao-personalizados.jpg",
-          "link": "https://www.joalheriaveiga.com.br/colecao-personalizados",
-          "alt": "COLECAO PERSONALIZADOS"
+          "img": "/img/uploads/surpreenda-sua-mae-no-dia-das-maes-1-.png",
+          "link": "https://www.joalheriaveiga.com.br/ver-todas-joias-joalheria-veiga",
+          "alt": "TODAS AS JOAIS DA JOALHERIA VEIGA"
         },
         {
-          "img": "/img/uploads/colecao-love.jpg",
-          "link": "https://www.joalheriaveiga.com.br/colecao-love",
-          "alt": "COLECAO LOVE"
+          "img": "/img/uploads/surpreenda-sua-mae-no-dia-das-maes-1-.jpg",
+          "link": "https://www.joalheriaveiga.com.br/colares",
+          "alt": "COLARES"
         }
       ]
     },
