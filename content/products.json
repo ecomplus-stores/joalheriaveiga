@@ -31,15 +31,15 @@
       ]
     },
     {
-      "type": "page-title"
-    },
-    {
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:"
     },
     {
       "type": "related-products",
       "title": "Produtos relacionados"
+    },
+    {
+      "type": "page-title"
     }
   ]
 }
