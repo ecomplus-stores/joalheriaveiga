@@ -17,9 +17,18 @@
       "enabled": true
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/o-que-nossos-clientes-dizem-sobre-nos.jpg",
-      "link": "https://www.joalheriaveiga.com.br/posts/depoimentos"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2023-04-11T10:06:04.516Z",
+          "end": "",
+          "img": "/img/uploads/o-que-dizem-sobre-nos-1-.jpg",
+          "link": "https://www.joalheriaveiga.com.br/posts/depoimentos",
+          "alt": "DEPOIMENTOS"
+        }
+      ]
     },
     {
       "type": "page-title"
