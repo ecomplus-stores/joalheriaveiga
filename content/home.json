@@ -47,19 +47,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/aneisdetercoprataeouro.png",
-          "link": "https://www.joalheriaveiga.com.br/anel-terco-prata-925-cruz-e-dezena-em-ouro-18k-750",
-          "alt": "Anel Terco Prata e Ouro"
-        },
-        {
-          "img": "/img/uploads/2-2-.png",
-          "link": "https://www.joalheriaveiga.com.br/colares",
-          "alt": "COLARES"
-        },
-        {
           "img": "/img/uploads/pingentepersonalizado.png",
           "alt": "Pingentes Personalizado",
           "link": "https://www.joalheriaveiga.com.br/colecao-personalizados"
+        },
+        {
+          "img": "/img/uploads/aneisdetercoprataeouro.png",
+          "link": "https://www.joalheriaveiga.com.br/anel-terco-prata-925-cruz-e-dezena-em-ouro-18k-750",
+          "alt": "Anel Terco Prata e Ouro"
         }
       ]
     },
