@@ -2240,27 +2240,9 @@
     </url>
   
     <url>
-      <loc>https://www.joalheriaveiga.com.br/colecao-pipoca</loc>
+      <loc>https://www.joalheriaveiga.com.br/pingente-grande-numero-personalizado-prata-950</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.joalheriaveiga.com.br/colecao-after</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.joalheriaveiga.com.br/colecao-personalizados</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.joalheriaveiga.com.br/joalheriaveiga</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.9</priority>
     </url>
   
     <url>
@@ -2330,7 +2312,19 @@
     </url>
   
     <url>
+      <loc>https://www.joalheriaveiga.com.br/colecao-after</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.joalheriaveiga.com.br/colecao-religiosos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.joalheriaveiga.com.br/colecao-personalizados</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -2367,6 +2361,18 @@
   
     <url>
       <loc>https://www.joalheriaveiga.com.br/outlet</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.joalheriaveiga.com.br/colecao-pipoca</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.joalheriaveiga.com.br/joalheriaveiga</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -2414,13 +2420,13 @@
     </url>
   
     <url>
-      <loc>https://www.joalheriaveiga.com.br/posts/como-saber-o-tamanho-do-anel-veja-o-passo-a-passo-joalheria-veiga</loc>
+      <loc>https://www.joalheriaveiga.com.br/posts/depoimentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.joalheriaveiga.com.br/posts/depoimentos</loc>
+      <loc>https://www.joalheriaveiga.com.br/posts/como-saber-o-tamanho-do-anel-veja-o-passo-a-passo-joalheria-veiga</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
