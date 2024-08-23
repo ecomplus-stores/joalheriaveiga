@@ -1,5 +1,6 @@
 {
   "domain": "www.joalheriaveiga.com.br",
+  "repository": "ecomplus-stores/joalheriaveiga",
   "currency_symbol": "R$",
   "primary_color": "#000000",
   "theme": {
