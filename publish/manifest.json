@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.00c2ff8530cd456635d3e83a434dc8fb.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.680f7126ded9b521d36186d9994ce101.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.a6045e774a6698277317d63459fb4834.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.84453e226f2cbceb86c520b1fb78c8af.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.f0513c8652fc4c7265c2b80140f6fec3.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Joalheria Veiga",
+  "short_name": "Joalheria Veiga",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Bem-vindo à Joalheria Veiga! Somos uma empresa familiar com mais de 6 anos de história no mercado online de joias de alta qualidade.\nFundada em 2017 pelo ourives Clayton Veiga, que possui mais de 15 anos de experiencia e produção de joias.\nNosso objetivo é oferecer aos nossos clientes uma experiência de compra única, que valorize a beleza, a qualidade e a durabilidade das joias. \nPara isso, trabalhamos apenas com materias de altissima qualidade, como o ouro e prata legitimos.\nEm nossa loja, você encontrará uma grande variedade de joias em ouro 18k e prata.\nAlém disso, oferecemos serviços de conserto, ajuste e limpeza de joias, realizados por ourives altamente capacitados. \nNa Joalheria Veiga, temos um atendimento personalizado e especializado, com profissionais altamente capacitado e que estão sempre prontos para ajudá-lo a encontrar o produto perfeito para você ou para presentear alguém especial.",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
