@@ -1982,9 +1982,9 @@
     </url>
   
     <url>
-      <loc>https://www.joalheriaveiga.com.br/admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
+      <loc>https://www.joalheriaveiga.com.br/maintenance/index</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
@@ -1994,9 +1994,9 @@
     </url>
   
     <url>
-      <loc>https://www.joalheriaveiga.com.br/maintenance/index</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <loc>https://www.joalheriaveiga.com.br/admin/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
