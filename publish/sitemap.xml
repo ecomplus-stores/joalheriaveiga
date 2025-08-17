@@ -1766,24 +1766,6 @@
     </url>
   
     <url>
-      <loc>https://www.joalheriaveiga.com.br/colecao-pipoca</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.joalheriaveiga.com.br/colecao-after</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.joalheriaveiga.com.br/colecao-personalizados</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.joalheriaveiga.com.br/colecao-signos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1850,7 +1832,19 @@
     </url>
   
     <url>
+      <loc>https://www.joalheriaveiga.com.br/colecao-after</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.joalheriaveiga.com.br/colecao-religiosos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.joalheriaveiga.com.br/colecao-personalizados</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -1899,6 +1893,12 @@
   
     <url>
       <loc>https://www.joalheriaveiga.com.br/joias-em-hebraico-personalizadas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.joalheriaveiga.com.br/colecao-pipoca</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
