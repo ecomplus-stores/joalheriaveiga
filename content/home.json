@@ -34,6 +34,16 @@
       "full_width": true
     },
     {
+      "type": "offers-timer",
+      "max_hours": 120,
+      "start": "2025-10-02T13:14:10.375Z",
+      "end": "2025-10-06T13:14:10.419Z",
+      "offers": [
+        "5f1908bf14ff772fde819deb"
+      ],
+      "notes": "Os preços vão subir, aproveite e antecipe o seu pedido!"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 3,
@@ -82,16 +92,6 @@
       "type": "page-title",
       "title": "Joalheria Veiga - Joias Legitimas em Prata 925/950 e Ouro 18k 750",
       "description": "Bem-vindo à Joalheria Veiga! Fundada em 2017 pelo ourives Clayton Veiga, que possui mais de 15 anos de experiencia e produção de joias.  Somos uma empresa familiar com mais de 6 anos de história no mercado online de joias de alta qualidade. Nosso objetivo é oferecer aos nossos clientes uma experiência de compra única, que valorize a beleza, a qualidade e a durabilidade das joias.  Para isso, trabalhamos apenas com materias de altissima qualidade, como o ouro e prata legitimos. Em nossa loja, você encontrará uma grande variedade de joias em ouro 18k e prata. Além disso, oferecemos serviços de conserto, ajuste e limpeza de joias, realizados por ourives altamente capacitados.  Na Joalheria Veiga, temos um atendimento personalizado e especializado, com profissionais altamente capacitado e que estão sempre prontos para ajudá-lo a encontrar o produto perfeito para você ou para presentear alguém especial."
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 120,
-      "start": "2025-10-02T13:14:10.375Z",
-      "end": "2025-10-06T13:14:10.419Z",
-      "offers": [
-        "5f1908bf14ff772fde819deb"
-      ],
-      "notes": "Os preços vão subir, aproveite e antecipe o seu pedido!"
     }
   ]
 }
