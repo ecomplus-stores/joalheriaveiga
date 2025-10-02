@@ -5,6 +5,13 @@
       "enabled": true
     },
     {
+      "type": "offers-timer",
+      "max_hours": 120,
+      "start": "2025-10-02T13:26:17.139Z",
+      "end": "2025-10-06T13:26:17.157Z",
+      "notes": "O preço vai SUBIR, aproveite e faça seu pedido agora!"
+    },
+    {
       "type": "product-block",
       "enabled": true
     },
