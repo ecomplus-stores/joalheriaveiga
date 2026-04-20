@@ -1928,13 +1928,13 @@
     </url>
   
     <url>
-      <loc>https://www.joalheriaveiga.com.br/pages/contato</loc>
+      <loc>https://www.joalheriaveiga.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.joalheriaveiga.com.br/pages/entrega</loc>
+      <loc>https://www.joalheriaveiga.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1952,6 +1952,12 @@
     </url>
   
     <url>
+      <loc>https://www.joalheriaveiga.com.br/pages/trocas</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.joalheriaveiga.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1964,19 +1970,13 @@
     </url>
   
     <url>
-      <loc>https://www.joalheriaveiga.com.br/pages/trocas</loc>
+      <loc>https://www.joalheriaveiga.com.br/posts/depoimentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://www.joalheriaveiga.com.br/posts/como-saber-o-tamanho-do-anel-veja-o-passo-a-passo-joalheria-veiga</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.joalheriaveiga.com.br/posts/depoimentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
