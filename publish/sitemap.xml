@@ -1934,25 +1934,25 @@
     </url>
   
     <url>
-      <loc>https://www.joalheriaveiga.com.br/pages/entrega</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.joalheriaveiga.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.joalheriaveiga.com.br/pages/pagamentos</loc>
+      <loc>https://www.joalheriaveiga.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://www.joalheriaveiga.com.br/pages/privacidade</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.joalheriaveiga.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1970,19 +1970,25 @@
     </url>
   
     <url>
-      <loc>https://www.joalheriaveiga.com.br/posts/como-saber-o-tamanho-do-anel-veja-o-passo-a-passo-joalheria-veiga</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.joalheriaveiga.com.br/posts/depoimentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
+      <loc>https://www.joalheriaveiga.com.br/posts/como-saber-o-tamanho-do-anel-veja-o-passo-a-passo-joalheria-veiga</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.joalheriaveiga.com.br/404</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.joalheriaveiga.com.br/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -1997,12 +2003,6 @@
       <loc>https://www.joalheriaveiga.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.joalheriaveiga.com.br/search</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
     </url>
   
     <url>
